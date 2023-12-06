@@ -33,10 +33,10 @@
         "bignum": "*",
         "bitcoinjs-lib-fab": "git+https://github.com/JasonH-ca/bitcoinjs-lib-fab.git#zcash",
         "equihashverify": "git+https://github.com/JasonH-ca/equihashverify.git",
-        "merkle-bitcoin": "git+https://github.com/DirtyHarryDev/merkle-bitcoin.git",
+        "merkle-bitcoin": "git+https://github.com/joshuayabut/merkle-bitcoin.git",
         "promise": "*"
     },
-   "engines": {
-		"node": ">=8.11.3"
-	}
+    "engines": {
+        "node": ">=7"
+    }
 }
