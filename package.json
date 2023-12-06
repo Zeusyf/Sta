@@ -36,7 +36,7 @@
         "merkle-bitcoin": "git+https://github.com/DirtyHarryDev/merkle-bitcoin.git",
         "promise": "*"
     },
-    "engines": {
-        "node": ">=8"
-    }
+   "engines": {
+		"node": ">=8.11.3"
+	}
 }
